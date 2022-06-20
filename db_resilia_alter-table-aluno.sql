@@ -1,0 +1,1 @@
+ALTER TABLE aluno ADD email text;
